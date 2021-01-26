@@ -1,0 +1,23 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure Js excel app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denys-vladymyrov/excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Denys Vladymyrov <dvdenis1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denys-vladymyrov/excel-js/issues"
+  },
+  "homepage": "https://github.com/denys-vladymyrov/excel-js#readme"
+}
